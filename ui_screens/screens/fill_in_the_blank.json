@@ -1,0 +1,6 @@
+{
+  "sentenceWithBlank": true,
+  "optionType": "multiple_choice",
+  "highlightCorrect": true,
+  "maxAttempts": 2
+}
