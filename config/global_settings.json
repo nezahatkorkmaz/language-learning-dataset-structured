@@ -1,0 +1,99 @@
+{
+  "language": {
+    "default": "tr",
+    "supported": ["tr", "en"]
+  },
+  "ui": {
+    "theme": "light",
+    "availableThemes": ["light", "dark"],
+    "animations": true,
+    "fontScaling": true,
+    "highlightCorrectAnswers": true,
+    "showProgressBar": true
+  },
+  "audio": {
+    "soundEffects": true,
+    "ttsEnabled": true,
+    "defaultVoice": "tr-Female-1",
+    "autoPlayOnStart": true,
+    "replayOption": true
+  },
+  "exercise": {
+    "timeLimitPerQuestion": 45,
+    "attemptLimit": 2,
+    "feedbackMode": "immediate",             // "immediate", "delayed", "none"
+    "showCorrectAnswerAfterMistake": true,
+    "shuffleQuestions": true,
+    "shuffleOptions": true,
+    "showHintButton": false
+  },
+  "interface_mapping": {
+    "image_word_matching": {
+      "hasTimer": true,
+      "highlightMatches": true,
+      "allowRetry": true
+    },
+    "idiom_expression_matching": {
+      "hasTimer": false,
+      "allowRetry": true
+    },
+    "adjective_definition_matching": {
+      "hasTimer": false,
+      "highlightMatches": false
+    },
+    "flashcard": {
+      "ttsOnFlip": true,
+      "autoContinue": false
+    },
+    "image_selection": {
+      "audioCue": true,
+      "highlightCorrectImage": true
+    },
+    "word_selection": {
+      "ttsWordOption": false,
+      "showDefinition": true
+    },
+    "fill_in_the_blank": {
+      "displaySentence": true,
+      "optionType": "multiple_choice"
+    },
+    "sentence_translation_audio": {
+      "dragMode": "tiles",                   // kelime kutuları
+      "ttsOnStart": true
+    },
+    "sentence_building": {
+      "allowReorder": true,
+      "displayTargetSentence": false
+    },
+    "listening_multiple_choice": {
+      "ttsRepeatable": true,
+      "disableOptionsAfterFirstClick": false
+    },
+    "listening_sentence_rebuild": {
+      "dragMode": "tiles",
+      "ttsRepeatable": true
+    },
+    "listening_audio_word_build": {
+      "hasTimer": true,
+      "allowRetry": true,
+      "highlightAnswer": true
+    }
+  },
+  "rewards": {
+    "coinPerCorrect": 10,
+    "bonusStreakCount": 5,
+    "bonusStreakReward": 20,
+    "dailyGoalCoins": 50
+  },
+  "accessibility": {
+    "highContrastMode": false,
+    "ttsSupport": true,
+    "hapticFeedback": true,
+    "fontSizeMultiplier": 1.0
+  },
+  "analytics": {
+    "collectStats": true,
+    "enableSessionTracking": true,
+    "trackMistakePatterns": true
+  }
+}
