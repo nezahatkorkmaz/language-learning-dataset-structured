@@ -1,0 +1,62 @@
+{
+  "image_word_matching": {
+    "title": "Görsel-Kelime Eşleştirme",
+    "component": "ImageWordMatching",
+    "description": "Görseller ile karşılık gelen kelimeleri eşleştir."
+  },
+  "idiom_expression_matching": {
+    "title": "Deyim Eşleştirme",
+    "component": "IdiomExpressionMatching",
+    "description": "Deyimleri anlamlarıyla eşleştir."
+  },
+  "adjective_definition_matching": {
+    "title": "Sıfat-Tanım Eşleştirme",
+    "component": "AdjectiveDefinitionMatching",
+    "description": "Sıfatları tanımlarıyla eşleştir."
+  },
+  "flashcard": {
+    "title": "Flashcard",
+    "component": "FlashcardView",
+    "description": "Kelimeleri kartlarla öğren."
+  },
+  "image_selection": {
+    "title": "Görsel Seçme",
+    "component": "ImageSelection",
+    "description": "Anlamına karşılık gelen görseli seç."
+  },
+  "word_selection": {
+    "title": "Kelime Seçme",
+    "component": "WordSelection",
+    "description": "Verilen tanıma uygun kelimeyi seç."
+  },
+  "fill_in_the_blank": {
+    "title": "Boşluk Doldurma",
+    "component": "FillInTheBlank",
+    "description": "Cümledeki boşluğu doğru kelimeyle tamamla."
+  },
+  "sentence_translation_audio": {
+    "title": "Sesli Çeviri (Puzzle)",
+    "component": "AudioTranslatePuzzle",
+    "description": "Duyduğun cümleyi parçalarla yeniden kur."
+  },
+  "sentence_building": {
+    "title": "Cümle Kurma",
+    "component": "SentenceBuilder",
+    "description": "Verilen kelimelerle anlamlı bir cümle oluştur."
+  },
+  "listening_multiple_choice": {
+    "title": "Dinleme – Çoktan Seçmeli",
+    "component": "ListeningMCQ",
+    "description": "Duyduğun sesi anlamına karşılık gelen seçenekle eşleştir."
+  },
+  "listening_sentence_rebuild": {
+    "title": "Dinleme – Cümle Kurma",
+    "component": "ListeningSentenceRebuild",
+    "description": "Duyduğun cümleyi kelime kutucuklarıyla oluştur."
+  },
+  "listening_audio_word_build": {
+    "title": "Dinleme – Kelime Kurma",
+    "component": "AudioWordRebuilder",
+    "description": "Duyduğun ifadeyi doğru kelimeleri seçerek kur."
+  }
+}
