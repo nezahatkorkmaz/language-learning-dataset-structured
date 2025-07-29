@@ -1,0 +1,7 @@
+{
+  "title": "Yeni UI Başlığı",
+  "component": "ComponentName",
+  "parameters": {
+    "yourSettingHere": true
+  }
+}
