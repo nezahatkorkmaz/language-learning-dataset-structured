@@ -1,0 +1,7 @@
+{
+  "cardFlip": true,
+  "ttsOnFlip": true,
+  "autoAdvance": false,
+  "showExampleSentence": true,
+  "backSide": "meaning" 
+}
