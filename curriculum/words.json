@@ -10,7 +10,7 @@
     "Weather": ["sunny", "rainy", "cloudy", "snowy", "windy"],
     "Colors": ["red", "blue", "green", "yellow", "black"],
     "Clothes": ["shirt", "pants", "dress", "shoes", "hat"],
-    "Food and drink": ["apple", "bread", "water", "coffee", "chicken"],
+    "Food and drink": ["apple", "bread", "water", "coffee", "chicken", "beypazari", "turkish coffee", "baklava", "kebab"],
     "Basic shopping": ["shop", "money", "buy", "price", "bag"],
     "Hobbies and free time": ["reading", "music", "sports", "movies", "games"],
     "Directions and locations": ["left", "right", "straight", "map", "here"],
