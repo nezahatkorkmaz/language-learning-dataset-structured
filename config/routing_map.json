@@ -1,0 +1,19 @@
+{
+  "matching/image_word.json": "image_word_matching",
+  "matching/idioms.json": "idiom_expression_matching",
+  "matching/adjectives.json": "adjective_definition_matching",
+  
+  "vocabulary/word_meanings.json": "word_selection",
+  "vocabulary/pronunciation.json": "flashcard",
+  
+  "grammar/fill_in_the_blanks.json": "fill_in_the_blank",
+  "grammar/sentence_order.json": "sentence_building",
+  
+  "translation/listening_translation.json": "sentence_translation_audio",
+  "translation/listening_mcq.json": "listening_multiple_choice",
+  "translation/sentence_rebuild_audio.json": "listening_sentence_rebuild",
+  
+  "translation/audio_word_build.json": "listening_audio_word_build",
+  
+  "flashcards/set_1.json": "flashcard"
+}
