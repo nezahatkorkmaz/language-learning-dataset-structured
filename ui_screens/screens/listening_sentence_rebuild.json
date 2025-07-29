@@ -1,0 +1,6 @@
+{
+  "dragMode": "tiles",
+  "ttsRepeatable": true,
+  "maxAttempts": 2,
+  "highlightAfterSubmission": true
+}
