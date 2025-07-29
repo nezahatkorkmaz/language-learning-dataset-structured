@@ -1,7 +1,7 @@
 {
   "A1": {
     "Numbers (cardinal, ordinal)": ["one", "two", "first", "calculator", "counting"],
-    "Greetings and introductions": ["hello", "goodbye", "handshake", "smile", "meeting"],
+    "Greetings and introductions": ["hello", "goodbye", "handshake", "smile", "name"],
     "Personal information": ["name", "age", "address", "phone", "birthday"],
     "Family members": ["mother", "father", "sister", "brother", "baby"],
     "Daily routines": ["wake", "breakfast", "work", "dinner", "sleep"],
