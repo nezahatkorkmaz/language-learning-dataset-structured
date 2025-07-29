@@ -2,7 +2,7 @@
   "A1": {
     "Numbers (cardinal, ordinal)": ["one", "two", "first", "calculator", "counting"],
     "Greetings and introductions": ["meeting", "friend", "handshake", "smile", "hand-waving"],
-    "Personal information": ["name", "age", "address", "phone", "birthday"],
+    "Personal information": ["name", "age", "address", "phone", "birthday"], #bunları görselleştirmek zor
     "Family members": ["mother", "father", "sister", "brother", "baby"],
     "Daily routines": ["wake", "breakfast", "work", "dinner", "sleep"],
     "Telling the time": ["clock", "watch", "morning", "afternoon", "night"],
