@@ -5,7 +5,7 @@
     "Family members": ["mother", "father", "sister", "brother", "baby"],
     "Daily routines": ["wake", "breakfast", "work", "dinner", "sleep"],
     "Telling the time": ["clock", "watch", "morning", "night"],
-    "Days, months, seasons": ["Monday", "January", "summer", "winter", "calendar"],
+    "Days, months, seasons": ["week", "month", "spring", "summer", "winter", "calendar"],
     "Weather": ["sunny", "rainy", "cloudy", "snowy", "windy"],
     "Colors": ["red", "blue", "green", "yellow", "black"],
     "Clothes": ["shirt", "pants", "dress", "shoes", "hat", "sneakers"],
