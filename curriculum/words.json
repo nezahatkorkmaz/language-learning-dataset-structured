@@ -16,7 +16,7 @@
     "Basic transportation": ["car", "bus", "train", "bicycle", "walking"],
     "Simple health": ["doctor", "medicine", "sick", "hospital", "healthy"],
     "Home and rooms": ["house", "bedroom", "kitchen", "bathroom", "living"],
-    "Jobs and workplaces": ["teacher", "doctor", "office", "factory", "shop"],
+    "Jobs and workplaces": ["teacher", "doctor", "office", "factory", "police"],
     "Countries and nationalities": ["Turkey", "America", "English", "Turkish", "passport"]
   },
   "A2": {
