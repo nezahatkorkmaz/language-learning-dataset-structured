@@ -8,7 +8,7 @@
     "Days, months, seasons": ["Monday", "January", "summer", "winter", "calendar"],
     "Weather": ["sunny", "rainy", "cloudy", "snowy", "windy"],
     "Colors": ["red", "blue", "green", "yellow", "black"],
-    "Clothes": ["shirt", "pants", "dress", "shoes", "hat"],
+    "Clothes": ["shirt", "pants", "dress", "shoes", "hat", "sneakers"],
     "Food and drink": ["apple", "bread", "water", "coffee", "chicken", "beypazari", "turkish coffee", "baklava", "kebab"],
     "Basic shopping": ["shop", "money", "buy", "price", "bag"],
     "Hobbies and free time": ["reading", "music", "sports", "movies", "games"],
