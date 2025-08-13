@@ -49,7 +49,7 @@
     "Environmental issues": ["pollution", "recycling", "climate", "environment", "green"],
     "Relationships and emotions": ["love", "friendship", "angry", "happy", "sad"],
     "News and media": ["newspaper", "television", "internet", "news", "journalist"],
-    "Technology and gadgets": ["computer", "smartphone", "internet", "technology", "digital"]
+    "Technology and gadgets": ["computer", "smartphone", "tablet", "technology", "digital"]
   },
   "B2": {
     "Detailed work discussions": ["strategy", "analysis", "management", "leadership", "teamwork"],
