@@ -43,7 +43,7 @@
     "Describing experiences": ["amazing", "terrible", "unforgettable", "exciting", "boring"],
     "Problem-solving": ["solution", "difficulty", "challenge", "solve", "decision"],
     "Making suggestions and offers": ["suggest", "recommend", "offer", "advice", "help"],
-    "Giving advice": ["should", "ought", "better", "recommend", "suggest"],
+    "Giving advice": ["should", "ought", "better", "warn", "suggest"],
     "Expressing opinions": ["think", "believe", "opinion", "agree", "disagree"],
     "Talking about hopes and ambitions": ["dream", "goal", "hope", "ambition", "future"],
     "Environmental issues": ["pollution", "recycling", "climate", "environment", "green"],
