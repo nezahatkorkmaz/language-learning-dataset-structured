@@ -1,0 +1,444 @@
+{
+  "A1": {
+    "topics": [
+      {
+        "kategori": "Numbers (cardinal, ordinal)",
+        "seviye": "A1",
+        "cumleler": [
+          {"cumle": "I have three cats and two dogs at home.", "turkcesi": "Evde üç kedim ve iki köpeğim var."},
+          {"cumle": "This is my first time visiting London.", "turkcesi": "Londra'yı ilk kez ziyaret ediyorum."},
+          {"cumle": "Can you give me twenty dollars, please?", "turkcesi": "Bana yirmi dolar verir misin lütfen?"}
+        ]
+      },
+      {
+        "kategori": "Greetings and introductions",
+        "seviye": "A1",
+        "cumleler": [
+          {"cumle": "Good morning! How's everything going?", "turkcesi": "Günaydın! Her şey nasıl gidiyor?"},
+          {"cumle": "Hi there, I'm Sarah from the marketing team.", "turkcesi": "Selam, ben pazarlama ekibinden Sarah."},
+          {"cumle": "Nice to meet you too, have a great day!", "turkcesi": "Ben de tanıştığımıza memnun oldum, iyi günler!"}
+        ]
+      },
+      {
+        "kategori": "Personal information",
+        "seviye": "A1",
+        "cumleler": [
+          {"cumle": "My name is John and I'm twenty-five years old.", "turkcesi": "Benim adım John ve yirmi beş yaşındayım."},
+          {"cumle": "I live in New York with my family.", "turkcesi": "Ailmle birlikte New York'ta yaşıyorum."},
+          {"cumle": "My phone number is 555-0123, call me anytime.", "turkcesi": "Telefon numaram 555-0123, istediğin zaman ara."}
+        ]
+      },
+      {
+        "kategori": "Family members",
+        "seviye": "A1",
+        "cumleler": [
+          {"cumle": "My little sister is only eight years old.", "turkcesi": "Küçük kız kardeşim sadece sekiz yaşında."},
+          {"cumle": "Dad works in a bank downtown.", "turkcesi": "Babam şehir merkezindeki bir bankada çalışıyor."},
+          {"cumle": "Grandma makes the best cookies in the world.", "turkcesi": "Büyükanne dünyanın en iyi kurabiyelerini yapar."}
+        ]
+      },
+      {
+        "kategori": "Daily routines",
+        "seviye": "A1",
+        "cumleler": [
+          {"cumle": "I wake up at seven every morning.", "turkcesi": "Her sabah yedide uyanırım."},
+          {"cumle": "After breakfast, I brush my teeth and get dressed.", "turkcesi": "Kahvaltıdan sonra dişlerimi fırçalar ve giyinirim."},
+          {"cumle": "I usually go to bed around ten-thirty.", "turkcesi": "Genellikle on buçuk civarında yatarım."}
+        ]
+      },
+      {
+        "kategori": "Telling the time",
+        "seviye": "A1",
+        "cumleler": [
+          {"cumle": "It's quarter past three in the afternoon.", "turkcesi": "Öğleden sonra üçü çeyrek geçiyor."},
+          {"cumle": "The meeting starts at half past nine.", "turkcesi": "Toplantı dokuz buçukta başlıyor."},
+          {"cumle": "What time is it now? My watch stopped working.", "turkcesi": "Şimdi saat kaç? Saatim çalışmayı bıraktı."}
+        ]
+      },
+      {
+        "kategori": "Days, months, seasons",
+        "seviye": "A1",
+        "cumleler": [
+          {"cumle": "Monday is always the hardest day of the week.", "turkcesi": "Pazartesi her zaman haftanın en zor günüdür."},
+          {"cumle": "My birthday is in December, right before Christmas.", "turkcesi": "Doğum günüm Aralık ayında, Noel'den hemen önce."},
+          {"cumle": "I love summer because we can swim every day.", "turkcesi": "Yazı seviyorum çünkü her gün yüzebiliriz."}
+        ]
+      },
+      {
+        "kategori": "Weather",
+        "seviye": "A1",
+        "cumleler": [
+          {"cumle": "It's really sunny today, perfect for a picnic.", "turkcesi": "Bugün gerçekten güneşli, piknik için mükemmel."},
+          {"cumle": "Don't forget your umbrella - it's raining outside.", "turkcesi": "Şemsiyeni unutma - dışarıda yağmur yağıyor."},
+          {"cumle": "The weather is getting colder these days.", "turkcesi": "Hava bu günlerde soğuyor."}
+        ]
+      },
+      {
+        "kategori": "Colors",
+        "seviye": "A1",
+        "cumleler": [
+          {"cumle": "My favorite color is blue, like the ocean.", "turkcesi": "En sevdiğim renk mavi, okyanusa benzer."},
+          {"cumle": "She's wearing a beautiful red dress tonight.", "turkcesi": "Bu gece güzel bir kırmızı elbise giyiyor."},
+          {"cumle": "The walls in my room are painted white.", "turkcesi": "Odamdaki duvarlar beyaza boyalı."}
+        ]
+      },
+      {
+        "kategori": "Clothes",
+        "seviye": "A1",
+        "cumleler": [
+          {"cumle": "I need to buy a new pair of jeans.", "turkcesi": "Yeni bir kot pantolon almam gerekiyor."},
+          {"cumle": "This jacket is too small for me.", "turkcesi": "Bu ceket benim için çok küçük."},
+          {"cumle": "She always wears comfortable shoes to work.", "turkcesi": "İşe her zaman rahat ayakkabılar giyiyor."}
+        ]
+      },
+      {
+        "kategori": "Food and drink",
+        "seviye": "A1",
+        "cumleler": [
+          {"cumle": "I'm really hungry - let's grab some pizza.", "turkcesi": "Gerçekten açım - biraz pizza alalım."},
+          {"cumle": "Coffee keeps me awake during long meetings.", "turkcesi": "Kahve uzun toplantılarda beni uyanık tutuyor."},
+          {"cumle": "My mom cooks delicious pasta every Sunday.", "turkcesi": "Annem her Pazar lezzetli makarna pişirir."}
+        ]
+      },
+      {
+        "kategori": "Basic shopping",
+        "seviye": "A1",
+        "cumleler": [
+          {"cumle": "How much does this book cost?", "turkcesi": "Bu kitap kaç para?"},
+          {"cumle": "Excuse me, where can I find the milk?", "turkcesi": "Affedersiniz, sütü nerede bulabilirim?"},
+          {"cumle": "I'd like to pay by credit card, please.", "turkcesi": "Kredi kartıyla ödeme yapmak istiyorum lütfen."}
+        ]
+      },
+      {
+        "kategori": "Hobbies and free time",
+        "seviye": "A1",
+        "cumleler": [
+          {"cumle": "I love reading books in my spare time.", "turkcesi": "Boş zamanımda kitap okumayı seviyorum."},
+          {"cumle": "We play soccer every weekend in the park.", "turkcesi": "Her hafta sonu parkta futbol oynarız."},
+          {"cumle": "Watching movies is my favorite way to relax.", "turkcesi": "Film izlemek rahatlamak için en sevdiğim yol."}
+        ]
+      },
+      {
+        "kategori": "Directions and locations",
+        "seviye": "A1",
+        "cumleler": [
+          {"cumle": "The bank is next to the post office.", "turkcesi": "Banka posthanenin yanında."},
+          {"cumle": "Go straight ahead, then turn left at the corner.", "turkcesi": "Düz ilerle, sonra köşede sola dön."},
+          {"cumle": "Excuse me, how do I get to the train station?", "turkcesi": "Affedersiniz, tren istasyonuna nasıl giderim?"}
+        ]
+      },
+      {
+        "kategori": "Basic transportation",
+        "seviye": "A1",
+        "cumleler": [
+          {"cumle": "I take the bus to work every morning.", "turkcesi": "Her sabah işe otobüsle giderim."},
+          {"cumle": "My car is in the garage for repairs.", "turkcesi": "Arabam tamirde, garajda."},
+          {"cumle": "The train arrives at platform three.", "turkcesi": "Tren üçüncü perona geliyor."}
+        ]
+      },
+      {
+        "kategori": "Simple health",
+        "seviye": "A1",
+        "cumleler": [
+          {"cumle": "I have a headache and need some rest.", "turkcesi": "Başım ağrıyor ve biraz dinlenmeye ihtiyacım var."},
+          {"cumle": "The doctor says I should drink more water.", "turkcesi": "Doktor daha fazla su içmem gerektiğini söylüyor."},
+          {"cumle": "My arm hurts after playing tennis yesterday.", "turkcesi": "Dün tenis oynadıktan sonra kolum ağrıyor."}
+        ]
+      },
+      {
+        "kategori": "Home and rooms",
+        "seviye": "A1",
+        "cumleler": [
+          {"cumle": "My bedroom is upstairs, next to the bathroom.", "turkcesi": "Yatak odam üst katta, banyonun yanında."},
+          {"cumle": "We eat dinner together in the kitchen.", "turkcesi": "Akşam yemeğini mutfakta birlikte yeriz."},
+          {"cumle": "The living room has a big comfortable sofa.", "turkcesi": "Oturma odasında büyük rahat bir kanepe var."}
+        ]
+      },
+      {
+        "kategori": "Jobs and workplaces",
+        "seviye": "A1",
+        "cumleler": [
+          {"cumle": "My sister is a nurse at the local hospital.", "turkcesi": "Kız kardeşim yerel hastanede hemşire."},
+          {"cumle": "He works as a teacher in an elementary school.", "turkcesi": "İlkokulda öğretmen olarak çalışıyor."},
+          {"cumle": "The office is closed on weekends.", "turkcesi": "Ofis hafta sonları kapalı."}
+        ]
+      },
+      {
+        "kategori": "Countries and nationalities",
+        "seviye": "A1",
+        "cumleler": [
+          {"cumle": "I'm from Turkey, but I live in Germany now.", "turkcesi": "Türkiye'denim ama şu an Almanya'da yaşıyorum."},
+          {"cumle": "My Japanese friend speaks perfect English.", "turkcesi": "Japon arkadaşım mükemmel İngilizce konuşuyor."},
+          {"cumle": "France is famous for its delicious food.", "turkcesi": "Fransa lezzetli yemekleriyle ünlüdür."}
+        ]
+      }
+    ],
+    "grammar": [
+      {
+        "kategori": "Be (am, is, are)",
+        "seviye": "A1",
+        "cumleler": [
+          {"cumle": "I am really excited about the weekend.", "turkcesi": "Hafta sonu konusunda gerçekten heyecanlıyım."},
+          {"cumle": "She is the smartest person in our class.", "turkcesi": "O sınıfımızdaki en akıllı kişi."},
+          {"cumle": "They are always late for everything.", "turkcesi": "Her şey için her zaman geç kalırlar."}
+        ]
+      },
+      {
+        "kategori": "Have got",
+        "seviye": "A1",
+        "cumleler": [
+          {"cumle": "I've got two tickets for the concert tonight.", "turkcesi": "Bu geceki konser için iki biletim var."},
+          {"cumle": "Have you got any plans for the summer?", "turkcesi": "Yaz için hiç planın var mı?"},
+          {"cumle": "She's got the most beautiful smile.", "turkcesi": "En güzel gülümsemeye sahip."}
+        ]
+      },
+      {
+        "kategori": "Simple Present",
+        "seviye": "A1",
+        "cumleler": [
+          {"cumle": "My dad drives to work every morning.", "turkcesi": "Babam her sabah işe araba kullanarak gidiyor."},
+          {"cumle": "Do you speak any other languages?", "turkcesi": "Başka dil konuşuyor musun?"},
+          {"cumle": "The store doesn't open until nine o'clock.", "turkcesi": "Mağaza saat dokuza kadar açılmaz."}
+        ]
+      },
+      {
+        "kategori": "Articles (a, an, the)",
+        "seviye": "A1",
+        "cumleler": [
+          {"cumle": "I need an umbrella because it's raining.", "turkcesi": "Yağmur yağdığı için şemsiyeye ihtiyacım var."},
+          {"cumle": "The movie we watched last night was amazing.", "turkcesi": "Dün gece izlediğimiz film harika idi."},
+          {"cumle": "Can you pass me a pen from the desk?", "turkcesi": "Masadan bir kalem uzatır mısın?"}
+        ]
+      },
+      {
+        "kategori": "Subject Pronouns",
+        "seviye": "A1",
+        "cumleler": [
+          {"cumle": "We always have dinner together on Sundays.", "turkcesi": "Pazar günleri her zaman birlikte akşam yemeği yeriz."},
+          {"cumle": "It looks like rain is coming our way.", "turkcesi": "Yağmur bize doğru geliyor gibi görünüyor."},
+          {"cumle": "You should try this new restaurant downtown.", "turkcesi": "Şehir merkezindeki bu yeni restoranı denemelisin."}
+        ]
+      },
+      {
+        "kategori": "Possessive Adjectives",
+        "seviye": "A1",
+        "cumleler": [
+          {"cumle": "My coffee is getting cold while I'm working.", "turkcesi": "Çalışırken kahvem soğuyor."},
+          {"cumle": "Their house is the biggest one on the street.", "turkcesi": "Onların evi sokaktaki en büyük ev."},
+          {"cumle": "Is this your first time visiting our city?", "turkcesi": "Şehrimizi ilk kez mi ziyaret ediyorsun?"}
+        ]
+      },
+      {
+        "kategori": "Imperatives",
+        "seviye": "A1",
+        "cumleler": [
+          {"cumle": "Please close the door when you leave.", "turkcesi": "Lütfen çıkarken kapıyı kapat."},
+          {"cumle": "Don't forget to call me when you arrive.", "turkcesi": "Vardığında beni aramayı unutma."},
+          {"cumle": "Turn left at the traffic lights.", "turkcesi": "Trafik ışıklarında sola dön."}
+        ]
+      },
+      {
+        "kategori": "Prepositions of Place",
+        "seviye": "A1",
+        "cumleler": [
+          {"cumle": "The keys are on the kitchen table.", "turkcesi": "Anahtarlar mutfak masasının üzerinde."},
+          {"cumle": "There's a beautiful park behind our school.", "turkcesi": "Okulumuzun arkasında güzel bir park var."},
+          {"cumle": "I'll meet you in front of the cinema.", "turkcesi": "Seninle sinemanın önünde buluşurum."}
+        ]
+      },
+      {
+        "kategori": "Demonstratives",
+        "seviye": "A1",
+        "cumleler": [
+          {"cumle": "This pizza tastes better than the one we had yesterday.", "turkcesi": "Bu pizza dünkünden daha lezzetli."},
+          {"cumle": "Those people over there are my neighbors.", "turkcesi": "Şuradaki insanlar benim komşularım."},
+          {"cumle": "That was the best vacation I've ever had.", "turkcesi": "Bu şimdiye kadar yaşadığım en iyi tatil idi."}
+        ]
+      },
+      {
+        "kategori": "There is / There are",
+        "seviye": "A1",
+        "cumleler": [
+          {"cumle": "There's a new coffee shop around the corner.", "turkcesi": "Köşede yeni bir kahve dükkanı var."},
+          {"cumle": "Are there any good restaurants near here?", "turkcesi": "Buralarda iyi restoranlar var mı?"},
+          {"cumle": "There aren't many people at the beach today.", "turkcesi": "Bugün plajda çok insan yok."}
+        ]
+      },
+      {
+        "kategori": "Can (ability, permission)",
+        "seviye": "A1",
+        "cumleler": [
+          {"cumle": "I can speak three languages fluently.", "turkcesi": "Üç dili akıcı konuşabilirim."},
+          {"cumle": "Can you help me carry these heavy bags?", "turkcesi": "Bu ağır çantaları taşımama yardım eder misin?"},
+          {"cumle": "You can't park your car here after six.", "turkcesi": "Arabayı altıdan sonra buraya park edemezsin."}
+        ]
+      },
+      {
+        "kategori": "Plural Nouns",
+        "seviye": "A1",
+        "cumleler": [
+          {"cumle": "The children are playing in the garden.", "turkcesi": "Çocuklar bahçede oynuyor."},
+          {"cumle": "I bought some fresh tomatoes from the market.", "turkcesi": "Pazardan taze domatesler aldım."},
+          {"cumle": "My feet hurt after walking all day.", "turkcesi": "Bütün gün yürüdükten sonra ayaklarım ağrıyor."}
+        ]
+      },
+      {
+        "kategori": "Question Words",
+        "seviye": "A1",
+        "cumleler": [
+          {"cumle": "Where did you put my glasses?", "turkcesi": "Gözlüğümü nereye koydun?"},
+          {"cumle": "Why don't we go out for dinner tonight?", "turkcesi": "Neden bu gece dışarıda yemek yemeye gitmiyoruz?"},
+          {"cumle": "How long does it take to get there?", "turkcesi": "Oraya varmak ne kadar sürer?"}
+        ]
+      }
+    ]
+  },
+  "A2": {
+    "topics": [
+      {
+        "kategori": "Everyday activities",
+        "seviye": "A2",
+        "cumleler": [
+          {"cumle": "I'm currently doing the laundry and cleaning the house.", "turkcesi": "Şu anda çamaşır yıkıyor ve evi temizliyorum."},
+          {"cumle": "We usually go grocery shopping on Saturday mornings.", "turkcesi": "Genellikle Cumartesi sabahları market alışverişi yapıyoruz."},
+          {"cumle": "She spends most of her free time gardening.", "turkcesi": "Boş zamanının çoğunu bahçıvanlık yaparak geçiriyor."}
+        ]
+      },
+      {
+        "kategori": "Describing people",
+        "seviye": "A2",
+        "cumleler": [
+          {"cumle": "My brother is quite tall with dark curly hair.", "turkcesi": "Kardeşim oldukça uzun boylu ve koyu kıvırcık saçlı."},
+          {"cumle": "She's extremely friendly and always willing to help.", "turkcesi": "Son derece arkadaş canlısı ve yardım etmeye her zaman istekli."},
+          {"cumle": "The new teacher seems very patient with the students.", "turkcesi": "Yeni öğretmen öğrencilere karşı çok sabırlı görünüyor."}
+        ]
+      },
+      {
+        "kategori": "Holidays and travel",
+        "seviye": "A2",
+        "cumleler": [
+          {"cumle": "We're planning to visit Italy for our summer vacation.", "turkcesi": "Yaz tatilimiz için İtalya'yı ziyaret etmeyi planlıyoruz."},
+          {"cumle": "Last year's trip to Thailand was absolutely amazing.", "turkcesi": "Geçen yılki Tayland gezisi kesinlikle harika idi."},
+          {"cumle": "I need to pack my suitcase before the flight tomorrow.", "turkcesi": "Yarınki uçuştan önce bavulumu hazırlamam gerekiyor."}
+        ]
+      },
+      {
+        "kategori": "Ordering food",
+        "seviye": "A2",
+        "cumleler": [
+          {"cumle": "I'll have the chicken pasta with a side salad, please.", "turkcesi": "Tavuklu makarna ve yanında salata alacağım lütfen."},
+          {"cumle": "Could we get the bill when you have a moment?", "turkcesi": "Müsait olduğunuzda hesabı alabilir miyiz?"},
+          {"cumle": "The soup of the day sounds delicious, I'll try that.", "turkcesi": "Günün çorbası kulağa lezzetli geliyor, onu deneyeceğim."}
+        ]
+      },
+      {
+        "kategori": "Shopping for clothes",
+        "seviye": "A2",
+        "cumleler": [
+          {"cumle": "Do you have this shirt in a smaller size?", "turkcesi": "Bu gömlek daha küçük bedende var mı?"},
+          {"cumle": "I'm looking for something casual to wear to the party.", "turkcesi": "Partide giyecek rahat bir şey arıyorum."},
+          {"cumle": "These jeans are on sale for fifty percent off.", "turkcesi": "Bu kotlar yüzde elli indirimde."}
+        ]
+      },
+      {
+        "kategori": "Talking about past events",
+        "seviye": "A2",
+        "cumleler": [
+          {"cumle": "We had such a great time at the wedding yesterday.", "turkcesi": "Dün düğünde çok güzel vakit geçirdik."},
+          {"cumle": "I met my best friend when we were in college together.", "turkcesi": "En iyi arkadaşımla üniversitede birlikte okuduğumuz zaman tanıştım."},
+          {"cumle": "The concert last night was better than I expected.", "turkcesi": "Dün geceki konser beklediğimden daha iyiydi."}
+        ]
+      },
+      {
+        "kategori": "Describing towns and cities",
+        "seviye": "A2",
+        "cumleler": [
+          {"cumle": "Our town has a beautiful historic center with old buildings.", "turkcesi": "Kasabamızda eski binalarla güzel bir tarihi merkez var."},
+          {"cumle": "The city is getting more crowded every year.", "turkcesi": "Şehir her yıl daha da kalabalık oluyor."},
+          {"cumle": "There are plenty of parks and green spaces here.", "turkcesi": "Burada bol miktarda park ve yeşil alan var."}
+        ]
+      },
+      {
+        "kategori": "Making appointments",
+        "seviye": "A2",
+        "cumleler": [
+          {"cumle": "Can I schedule an appointment for next Thursday morning?", "turkcesi": "Gelecek Perşembe sabahı için randevu alabilir miyim?"},
+          {"cumle": "I'm sorry, but I'll need to reschedule our meeting.", "turkcesi": "Üzgünüm ama toplantımızı ertelemem gerekecek."},
+          {"cumle": "The dentist can see you at three-thirty on Friday.", "turkcesi": "Dişçi sizi Cuma günü üç buçukta kabul edebilir."}
+        ]
+      },
+      {
+        "kategori": "Talking about future plans",
+        "seviye": "A2",
+        "cumleler": [
+          {"cumle": "I'm going to start taking Spanish lessons next month.", "turkcesi": "Gelecek ay İspanyolca dersleri almaya başlayacağım."},
+          {"cumle": "We're planning to move to a bigger house next year.", "turkcesi": "Gelecek yıl daha büyük bir eve taşınmayı planlıyoruz."},
+          {"cumle": "What are you going to do after you finish university?", "turkcesi": "Üniversiteyi bitirdikten sonra ne yapacaksın?"}
+        ]
+      },
+      {
+        "kategori": "Expressing likes/dislikes",
+        "seviye": "A2",
+        "cumleler": [
+          {"cumle": "I really enjoy listening to music while I work.", "turkcesi": "Çalışırken müzik dinlemekten gerçekten hoşlanıyorum."},
+          {"cumle": "She can't stand waiting in long lines at the store.", "turkcesi": "Mağazada uzun kuyrukta beklemeye dayanamaz."},
+          {"cumle": "My kids love playing video games on weekends.", "turkcesi": "Çocuklarım hafta sonları video oyunları oynamayı seviyor."}
+        ]
+      },
+      {
+        "kategori": "Talking about abilities",
+        "seviye": "A2",
+        "cumleler": [
+          {"cumle": "I can cook pretty well, but I'm terrible at baking.", "turkcesi": "Oldukça iyi yemek yapabilirim ama fırın işlerinde berbatım."},
+          {"cumle": "She's able to solve complex math problems quickly.", "turkcesi": "Karmaşık matematik problemlerini hızla çözebiliyor."},
+          {"cumle": "Could you teach me how to use this new software?", "turkcesi": "Bana bu yeni yazılımı nasıl kullanacağımı öğretir misin?"}
+        ]
+      },
+      {
+        "kategori": "Festivals and celebrations",
+        "seviye": "A2",
+        "cumleler": [
+          {"cumle": "Christmas is my favorite holiday of the year.", "turkcesi": "Noel yılın en sevdiğim tatili."},
+          {"cumle": "We always throw a big party for New Year's Eve.", "turkcesi": "Yılbaşı gecesi için her zaman büyük bir parti veriyoruz."},
+          {"cumle": "The local festival features live music and great food.", "turkcesi": "Yerel festivalde canlı müzik ve harika yemekler var."}
+        ]
+      },
+      {
+        "kategori": "Transportation and travel problems",
+        "seviye": "A2",
+        "cumleler": [
+          {"cumle": "My flight was delayed for three hours due to bad weather.", "turkcesi": "Uçuşum kötü hava koşulları nedeniyle üç saat ertelendi."},
+          {"cumle": "The train broke down halfway through our journey.", "turkcesi": "Tren yolculuğumuzun yarısında bozuldu."},
+          {"cumle": "I missed the last bus and had to take a taxi home.", "turkcesi": "Son otobüsü kaçırdım ve eve taksiyle gitmek zorunda kaldım."}
+        ]
+      },
+      {
+        "kategori": "Daily routines in more detail",
+        "seviye": "A2",
+        "cumleler": [
+          {"cumle": "Before work, I always check my emails and read the news.", "turkcesi": "İşten önce her zaman e-postalarımı kontrol eder ve haberleri okurum."},
+          {"cumle": "During lunch break, I usually take a walk around the block.", "turkcesi": "Öğle molasında genellikle blok etrafında yürüyüş yaparım."},
+          {"cumle": "In the evening, I like to unwind by watching TV.", "turkcesi": "Akşamları TV izleyerek rahatlamayı severim."}
+        ]
+      }
+    ],
+    "grammar": [
+      {
+        "kategori": "Past Simple",
+        "seviye": "A2",
+        "cumleler": [
+          {"cumle": "I visited my grandparents last weekend and had a wonderful time.", "turkcesi": "Geçen hafta sonu büyük anne ve dedemi ziyaret ettim ve harika vakit geçirdim."},
+          {"cumle": "She didn't come to the party because she was feeling sick.", "turkcesi": "Hasta hissettiği için partiye gelmedi."},
+          {"cumle": "Did you remember to lock the door when you left?", "turkcesi": "Çıkarken kapıyı kitlemeyi hatırladın mı?"}
+        ]
+      },
+      {
+        "kategori": "Future with 'going to'",
+        "seviye": "A2",
+        "cumleler": [
+          {"cumle": "Look at those dark clouds - it's going to rain soon.", "turkcesi": "Şu kara bulutlara bak - yakında yağmur yağacak."},
+          {"cumle": "We're going to redecorate the living room this summer.", "turkcesi": "Bu yaz oturma odasını yeniden dekore edeceğiz."},
+          {"cumle": "Are you going to apply for that job we talked about?", "turkcesi": "Konuştuğumuz o işe başvuracak mısın?"}
+        ]
+      }
+}
