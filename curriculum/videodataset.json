@@ -420,4 +420,121 @@
         "cumleler": [
           {"cumle": "I prefer to get my news from multiple sources to stay informed.", "turkcesi": "Bilgili kalmak için haberlerimi birden fazla kaynaktan almayı tercih ederim."},
           {"cumle": "Social media can spread misinformation faster than traditional news.", "turkcesi": "Sosyal medya geleneksel haberlerden daha hızlı yanlış bilgi yayabilir."},
-          {"cumle": "The documentary shed light on important social issues.", "turkcesi": "Belgesel önem
+          {"cumle": "The documentary shed light on important social issues.", "turkcesi": "Belgesel önemli sosyal konulara ışık tuttu."}
+        ]
+      },
+      {
+        "kategori": "Technology and gadgets",
+        "seviye": "B1",
+        "cumleler": [
+          {"cumle": "Artificial intelligence is revolutionizing the way we work.", "turkcesi": "Yapay zeka çalışma şeklimizde devrim yaratıyor."},
+          {"cumle": "I can't imagine my life without my smartphone anymore.", "turkcesi": "Artık hayatımı akıllı telefonumsuz hayal edemiyorum."},
+          {"cumle": "Smart home devices are making our lives more convenient.", "turkcesi": "Akıllı ev cihazları hayatımızı daha rahat hale getiriyor."}
+        ]
+      }
+    ]
+  },
+  "B2": {
+    "topics": [
+      {
+        "kategori": "Detailed work discussions",
+        "seviye": "B2",
+        "cumleler": [
+          {"cumle": "Our quarterly performance exceeded expectations across all departments.", "turkcesi": "Üç aylık performansımız tüm departmanlarda beklentileri aştı."},
+          {"cumle": "The merger will likely result in significant restructuring of operations.", "turkcesi": "Birleşme muhtemelen operasyonlarda önemli yeniden yapılanmayla sonuçlanacak."},
+          {"cumle": "We need to streamline our processes to enhance overall efficiency.", "turkcesi": "Genel verimliliği artırmak için süreçlerimizi düzene sokmalıyız."}
+        ]
+      },
+      {
+        "kategori": "Describing trends and changes",
+        "seviye": "B2",
+        "cumleler": [
+          {"cumle": "There's been a gradual shift toward remote working arrangements.", "turkcesi": "Uzaktan çalışma düzenlemelerine doğru kademeli bir kayma oldu."},
+          {"cumle": "Consumer preferences have evolved dramatically over the past decade.", "turkcesi": "Tüketici tercihleri son on yılda dramatik şekilde evrildi."},
+          {"cumle": "The housing market has witnessed unprecedented fluctuations recently.", "turkcesi": "Konut piyasası son zamanlarda eşi görülmemiş dalgalanmalara tanık oldu."}
+        ]
+      },
+      {
+        "kategori": "Discussing abstract ideas",
+        "seviye": "B2",
+        "cumleler": [
+          {"cumle": "The concept of justice varies significantly across different cultures.", "turkcesi": "Adalet kavramı farklı kültürlerde önemli ölçüde değişir."},
+          {"cumle": "Philosophy challenges us to question our fundamental assumptions.", "turkcesi": "Felsefe temel varsayımlarımızı sorgulamaya bizi zorlur."},
+          {"cumle": "The notion of happiness has been debated by scholars for centuries.", "turkcesi": "Mutluluk kavramı yüzyıllardır bilim insanları tarafından tartışılıyor."}
+        ]
+      },
+      {
+        "kategori": "Debating issues",
+        "seviye": "B2",
+        "cumleler": [
+          {"cumle": "While I understand your point, I respectfully disagree with that approach.", "turkcesi": "Görüşünüzü anlıyor olmakla birlikte, o yaklaşımla saygıyla ayrılıyorum."},
+          {"cumle": "The evidence clearly contradicts the claims made by the opposition.", "turkcesi": "Kanıtlar muhalefet tarafından yapılan iddiaları açıkça çürütüyor."},
+          {"cumle": "We must weigh the pros and cons before reaching a conclusion.", "turkcesi": "Sonuca varmadan önce artı ve eksileri tartmalıyız."}
+        ]
+      },
+      {
+        "kategori": "Giving detailed instructions",
+        "seviye": "B2",
+        "cumleler": [
+          {"cumle": "First, ensure all safety protocols are strictly adhered to throughout.", "turkcesi": "İlk olarak, tüm güvenlik protokollerinin baştan sona sıkı bir şekilde uygulandığından emin olun."},
+          {"cumle": "Subsequently, calibrate the equipment according to the manufacturer's specifications.", "turkcesi": "Ardından, ekipmanı üreticinin özelliklerine göre kalibre edin."},
+          {"cumle": "Finally, document all procedures meticulously for future reference.", "turkcesi": "Son olarak, gelecekteki referans için tüm prosedürleri titizlikle belgelendirin."}
+        ]
+      },
+      {
+        "kategori": "Expressing probability and speculation",
+        "seviye": "B2",
+        "cumleler": [
+          {"cumle": "There's a strong likelihood that interest rates will rise next quarter.", "turkcesi": "Gelecek çeyrekte faiz oranlarının artacağı güçlü bir olasılık var."},
+          {"cumle": "It's conceivable that technological advances could solve this problem.", "turkcesi": "Teknolojik ilerlemelerin bu problemi çözebileceği akla yatkın."},
+          {"cumle": "I suspect the delay might be due to unforeseen complications.", "turkcesi": "Gecikmenin öngörülemeyen komplikasyonlardan kaynaklanabileceğinden şüpheleniyorum."}
+        ]
+      },
+      {
+        "kategori": "Analyzing news and current affairs",
+        "seviye": "B2",
+        "cumleler": [
+          {"cumle": "The political ramifications of this decision could be far-reaching.", "turkcesi": "Bu kararın siyasi sonuçları geniş kapsamlı olabilir."},
+          {"cumle": "Media coverage has been criticized for its apparent bias.", "turkcesi": "Medya kapsamı görünür önyargısı nedeniyle eleştirildi."},
+          {"cumle": "The economic implications require careful analysis by experts.", "turkcesi": "Ekonomik etkiler uzmanlar tarafından dikkatli analiz gerektirir."}
+        ]
+      },
+      {
+        "kategori": "Talking about art, literature, and films",
+        "seviye": "B2",
+        "cumleler": [
+          {"cumle": "The novel explores themes of identity and belonging beautifully.", "turkcesi": "Roman kimlik ve aidiyet temalarını güzelce keşfediyor."},
+          {"cumle": "The cinematography in that film was absolutely breathtaking.", "turkcesi": "O filmdeki sinematografi kesinlikle nefes kesiciydi."},
+          {"cumle": "Contemporary art often challenges conventional notions of beauty.", "turkcesi": "Çağdaş sanat genellikle geleneksel güzellik kavramlarına meydan okuyor."}
+        ]
+      },
+      {
+        "kategori": "Advanced health issues",
+        "seviye": "B2",
+        "cumleler": [
+          {"cumle": "Chronic stress can have devastating effects on cardiovascular health.", "turkcesi": "Kronik stres kardiyovasküler sağlık üzerinde yıkıcı etkiler yaratabilir."},
+          {"cumle": "Preventive medicine is increasingly recognized as cost-effective.", "turkcesi": "Önleyici tıp giderek maliyet-etkin olarak kabul ediliyor."},
+          {"cumle": "The correlation between lifestyle and longevity is well-documented.", "turkcesi": "Yaşam tarzı ve uzun yaşam arasındaki korelasyon iyi belgelenmiş."}
+        ]
+      },
+      {
+        "kategori": "Law and rules",
+        "seviye": "B2",
+        "cumleler": [
+          {"cumle": "The legislation aims to protect consumers from predatory practices.", "turkcesi": "Mevzuat tüketicileri yağmacı uygulamalardan korumayı amaçlıyor."},
+          {"cumle": "Legal precedents suggest the court will rule in favor of the plaintiff.", "turkcesi": "Hukuki emsal kararlar mahkemenin davacı lehine karar vereceğini gösteriyor."},
+          {"cumle": "Compliance with regulations is mandatory for all licensed practitioners.", "turkcesi": "Düzenlemelere uyum tüm lisanslı uygulayıcılar için zorunlu."}
+        ]
+      },
+      {
+        "kategori": "Global problems",
+        "seviye": "B2",
+        "cumleler": [
+          {"cumle": "Poverty eradication requires coordinated international efforts.", "turkcesi": "Yoksulluğu ortadan kaldırma koordineli uluslararası çabalar gerektirir."},
+          {"cumle": "The refugee crisis has exposed weaknesses in humanitarian systems.", "turkcesi": "Mülteci krizi insani sistemlerdeki zayıflıkları ortaya çıkardı."},
+          {"cumle": "Sustainable development goals address interconnected global challenges.", "turkcesi": "Sürdürülebilir kalkınma hedefleri birbiriyle bağlantılı küresel zorlukları ele alıyor."}
+        ]
+      }
+    ]
+  }
+}
